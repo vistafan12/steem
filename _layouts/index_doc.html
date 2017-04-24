@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            <div id="main">
+
+                {% include nav.html %}
+
+                <div class="container m-top content" style="text-align: justify;">
+                    {{ content }}
+                </div>
+
+            </div>
+        </div>
+
+        {% include footer.html %}
+
+    </body>
+
+</html>

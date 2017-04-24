@@ -1,0 +1,78 @@
+---
+permalink: /
+layout: index
+redirect_from:
+  - /press/
+---
+
+<section class="teaser img-responsive img-retina">
+
+  <div class="slogan animated fadeInDown mtl ptl">
+    <center>
+      <div id="getting-started">
+      </div>
+
+      <h2 class="pitch ">
+        <i>Steem</i> is a blockchain-based social media platform where <strong>anyone</strong> can earn <strong>rewards</strong>.
+      </h2>
+      <hr class="steemer">
+      <p class="pitch-sub">
+        <!--  Don't miss the Steem train!-->
+      </p>
+      <p>
+
+        <div class="btn-group" role="group" aria-label="Links">
+          <a type="button" class="btn btn-primary" href="#intro-ex"><strong>Get STEEM</strong></a>
+          <a type="button" class="btn btn-primary" href="https://steemit.com" target="_blank"><strong>Explore STEEM</strong></a>
+        </div>
+
+
+      </p>
+
+
+
+    </center>
+  </div>
+  <div class="icon-scroll animated fadeInDown ">
+    <div class="mouse">
+      <div class="wheel"></div>
+    </div>
+    <div>
+      <span class="a1"></span>
+      <span class="a2"></span>
+      <span class="a3"></span>
+    </div>
+  </div>
+
+</section>
+<!-- <img class="steem-grey img-responsive" src="../images/icons/steem-icon-grey.svg" /> -->
+<center>
+  <img style="margin-top: -9.5rem;" class="text-center align-center animated fadeInDown img-responsive img-retina pbl" src="../images/bg/steem-phone.svg" />
+</center>
+<section id="intro-involved vpc mtl">
+  <a name="join" />&nbsp;</a>
+  <div class="container">
+    <div class="row ">
+      <div class="col-xs-12 col-md-10 col-md-offset-1">
+
+        <h2 name="getinvolved" class="text-center">Join the movement</h2>
+        <hr class="steemer">
+        <ul class="features">
+          {% assign features = (site.features | where: 'lang', page.lang | sort: 'priority') %} {% for feature in features %}
+          <li class="col-xs-12 col-md-6 ">
+            <!--  <a href="{{ feature.url }}"> -->
+
+            <img class="feature-img" src="{{ BASE_PATH }}/{{ feature.image }}" />
+            <br/>
+
+            <b>{{ feature.title }}</b>
+            <br/>{{ feature.subtitle }}
+          </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</section>
+{% include intro-video.html %} {% include intro-doc.html %} {% include intro-testimonials.html %} {% include intro-ex.html %} {% include intro-faq.html %} {% include intro-who.html %} {% include intro-press.html %}

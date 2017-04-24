@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>BitShares 2.0 Roadmap</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="/css/style.css" />
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+
+
+
+		<meta charset="utf-8">
+		<script>
+			function loadXMLDoc(filename) {
+				if (window.ActiveXObject) {
+					xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+				} else {
+					xhttp = new XMLHttpRequest();
+				}
+				xhttp.open("GET", filename, false);
+				try {xhttp.responseType = "msxml-document"} catch(err) {}
+				xhttp.send("");
+				return xhttp.responseXML;
+			}
+			function transformXMLDoc(target,inputXML,inputXSL) {
+				xml = loadXMLDoc(inputXML);
+				xsl = loadXMLDoc(inputXSL);
+				if (window.ActiveXObject || xhttp.responseType == "msxml-document") {
+			  		document.getElementById(target).innerHTML = xml.transformNode(xsl);
+			  	} else if (document.implementation && document.implementation.createDocument) {
+					processor = new XSLTProcessor();
+					processor.importStylesheet(xsl);
+					document.getElementById(target).appendChild(processor.transformToFragment(xml, document));
+				}
+			}
+		</script>
+		<link rel="stylesheet" href="css/roadmap.css"/>
+	</head>
+	<body onload="transformXMLDoc('container','roadmap.xml','roadmap.xsl')">
+		<div class="container-fluid" style="max-width:75vw;">
+			<div class="row">
+				<div class="col-xs-12">
+					<center><div id="container"></center>
+
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

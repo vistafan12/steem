@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="135px" height="97px" viewBox="0 0 135 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-launch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons-copy" transform="translate(-502.000000, -300.000000)">
+            <g id="ico-launch" transform="translate(502.000000, 302.000000)">
+                <g id="Page-1" transform="translate(44.000000, 0.000000)">
+                    <g id="Group-52"></g>
+                </g>
+                <g id="Group">
+                    <path d="M67.305603,92.9829588 C102.651827,87.1853871 132.751418,72.7032684 134.535798,60.6303135 C136.319785,48.5600126 106.228358,34.0765147 67.305603,28.2776683 C28.3914044,22.4800966 -1.7089713,36.9596659 0.0754082664,60.6303135 C1.85939558,84.2957577 31.9516074,98.7818051 67.305603,92.9829588 Z" id="Fill-1-Copy-4" fill="#EEF1F6"></path>
+                    <path d="M67.5000022,72.9942285 C80.8915884,70.7977087 92.2953885,65.3108838 92.9714345,60.7368163 C93.6473319,56.1637542 82.2466248,50.6764068 67.5000022,48.479404 C52.7566212,46.2828842 41.3525239,51.7687432 42.0285698,60.7368163 C42.7044672,69.7029179 54.1054715,75.1912313 67.5000022,72.9942285 Z" id="Fill-1-Copy-3" fill="#CFD7E6"></path>
+                    <path d="M62,20 L59,20 L44,35 L44,44 L62,44" id="Fill-2" fill="#FFFFFF"></path>
+                    <path d="M80,20 L83,20 L98,35 L98,44 L80,44" id="Fill-3" fill="#FFFFFF"></path>
+                    <path d="M62,18 C62,9 71,0 71,0 C71,0 80,9 80,18 L80,44 L62,44 L62,18 Z" id="Fill-4" fill="#FFC857"></path>
+                    <path d="M62,18 C62,9 71,0 71,0 C71,0 80,9 80,18 L80,44 L62,44 L62,18 L62,18 Z" id="Stroke-6" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M74,23 C74,24.656 72.656,26 71,26 C69.344,26 68,24.656 68,23 C68,21.344 69.344,20 71,20 C72.656,20 74,21.344 74,23" id="Fill-8" fill="#FFFFFF"></path>
+                    <path d="M74,13 C74,14.656 72.656,16 71,16 C69.344,16 68,14.656 68,13 C68,11.344 69.344,10 71,10 C72.656,10 74,11.344 74,13" id="Fill-10" fill="#FFFFFF"></path>
+                    <path d="M74,33 C74,34.656 72.656,36 71,36 C69.344,36 68,34.656 68,33 C68,31.344 69.344,30 71,30 C72.656,30 74,31.344 74,33" id="Fill-12" fill="#FFFFFF"></path>
+                    <path d="M74,23 C74,24.656 72.656,26 71,26 C69.344,26 68,24.656 68,23 C68,21.344 69.344,20 71,20 C72.656,20 74,21.344 74,23 L74,23 Z" id="Stroke-14" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M74,13 C74,14.656 72.656,16 71,16 C69.344,16 68,14.656 68,13 C68,11.344 69.344,10 71,10 C72.656,10 74,11.344 74,13 L74,13 Z" id="Stroke-16" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M74,33 C74,34.656 72.656,36 71,36 C69.344,36 68,34.656 68,33 C68,31.344 69.344,30 71,30 C72.656,30 74,31.344 74,33 L74,33 Z" id="Stroke-18" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M62,39 C59.238,39 57,41.238 57,44 L57,51 L67,51 L67,44 C67,41.238 64.762,39 62,39" id="Fill-20" fill="#FFFFFF"></path>
+                    <path d="M62,39 C59.238,39 57,41.238 57,44 L57,51 L67,51 L67,44 C67,41.238 64.762,39 62,39 L62,39 Z" id="Stroke-22" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M80,39 C77.238,39 75,41.238 75,44 L75,51 L85,51 L85,44 C85,41.238 82.762,39 80,39" id="Fill-24" fill="#FFFFFF"></path>
+                    <path d="M80,39 C77.238,39 75,41.238 75,44 L75,51 L85,51 L85,44 C85,41.238 82.762,39 80,39 L80,39 Z" id="Stroke-26" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M80,20 L83,20 L98,35 L98,44 L85,44" id="Stroke-28" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M62,20 L59,20 L44,35 L44,44 L57,44" id="Stroke-30" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M60,54 L60,62" id="Stroke-32" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M64,54 L64,62" id="Stroke-34" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M78,54 L78,62" id="Stroke-36" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M82,54 L82,62" id="Stroke-38" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M80,51 L80,48" id="Stroke-40" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M62,51 L62,48" id="Stroke-42" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M71,5 L71,7" id="Stroke-44" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M71,39 L71,41" id="Stroke-46" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M83,24 L83,37 C85,37 87,39 87,41 L95,41 L95,36 L83,24 Z" id="Fill-48" fill="#4BA2F2"></path>
+                    <path d="M59,24 L59,37 C57,37 55,39 55,41 L47,41 L47,36 L59,24 Z" id="Fill-50" fill="#4BA2F2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

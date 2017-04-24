@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="126px" height="126px" viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-paid-save</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-336.000000, -358.000000)">
+            <g id="ico-paid-save" transform="translate(337.000000, 359.000000)">
+                <path d="M0,124 L124,124 L124,0 L0,0 L0,124 Z" id="Fill-1" stroke="#EEF1F6" stroke-width="2"></path>
+                <path d="M52,42 L48,36 L52,34 L56,36 L60,34 L64,36 L60,42" id="Fill-2" fill="#FFFFFF"></path>
+                <g id="Group-41" transform="translate(36.000000, 35.000000)">
+                    <g id="Group-6" transform="translate(0.000000, 12.000000)">
+                        <path d="M24,0 C24,0 31,3 34,6 C37,9 40,19 40,37 C40,40 37.762,42 35,42 L5,42 C2.238,42 0,40 0,37 C0,19 3,9 6,6 C9,3 16,0 16,0" id="Fill-3" fill="#FFFFFF"></path>
+                        <path d="M24,0 C24,0 31,3 34,6 C37,9 40,19 40,37 C40,40 37.762,42 35,42 L5,42 C2.238,42 0,40 0,37 C0,19 3,9 6,6 C9,3 16,0 16,0" id="Stroke-5" stroke="#4D6892" stroke-width="2"></path>
+                    </g>
+                    <path d="M16,12 L24,12 L24,8 L16,8 L16,12 Z" id="Fill-7" fill="#FFC857"></path>
+                    <path d="M16,12 L24,12 L24,8 L16,8 L16,12 Z" id="Stroke-9" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M16,8 L12,2 L16,0 L20,2 L24,0 L28,2 L24,8" id="Stroke-10" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M32,29 C32,35.627 26.627,41 20,41 C13.373,41 8,35.627 8,29 C8,22.373 13.373,17 20,17 C26.627,17 32,22.373 32,29" id="Fill-11" fill="#4BA2F2"></path>
+                    <path d="M42,54 L52,54 L52,50 L42,50 L42,54 Z" id="Fill-12" fill="#FFC857"></path>
+                    <path d="M42,54 L52,54 L52,50 L42,50 L42,54 Z" id="Stroke-13" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M42,50 L52,50 L52,46 L42,46 L42,50 Z" id="Fill-14" fill="#FFC857"></path>
+                    <path d="M42,50 L52,50 L52,46 L42,46 L42,50 Z" id="Stroke-15" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M42,46 L52,46 L52,42 L42,42 L42,46 Z" id="Fill-16" fill="#FFC857"></path>
+                    <path d="M42,46 L52,46 L52,42 L42,42 L42,46 Z" id="Stroke-17" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M42,42 L52,42 L52,38 L42,38 L42,42 Z" id="Fill-18" fill="#FFC857"></path>
+                    <path d="M42,42 L52,42 L52,38 L42,38 L42,42 Z" id="Stroke-19" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M32,54 L42,54 L42,50 L32,50 L32,54 Z" id="Fill-20" fill="#FFC857"></path>
+                    <path d="M32,54 L42,54 L42,50 L32,50 L32,54 Z" id="Stroke-21" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M32,50 L42,50 L42,46 L32,46 L32,50 Z" id="Fill-22" fill="#FFC857"></path>
+                    <path d="M32,50 L42,50 L42,46 L32,46 L32,50 Z" id="Stroke-23" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M32,46 L42,46 L42,42 L32,42 L32,46 Z" id="Fill-24" fill="#FFC857"></path>
+                    <path d="M32,46 L42,46 L42,42 L32,42 L32,46 Z" id="Stroke-25" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M32,42 L42,42 L42,38 L32,38 L32,42 Z" id="Fill-26" fill="#FFC857"></path>
+                    <path d="M32,42 L42,42 L42,38 L32,38 L32,42 Z" id="Stroke-27" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M22,54 L32,54 L32,50 L22,50 L22,54 Z" id="Fill-28" fill="#FFC857"></path>
+                    <path d="M22,54 L32,54 L32,50 L22,50 L22,54 Z" id="Stroke-29" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M22,50 L32,50 L32,46 L22,46 L22,50 Z" id="Fill-30" fill="#FFC857"></path>
+                    <path d="M22,50 L32,50 L32,46 L22,46 L22,50 Z" id="Stroke-31" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M42,38 L52,38 L52,34 L42,34 L42,38 Z" id="Fill-32" fill="#FFC857"></path>
+                    <path d="M42,38 L52,38 L52,34 L42,34 L42,38 Z" id="Stroke-33" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M42,34 L52,34 L52,30 L42,30 L42,34 Z" id="Fill-34" fill="#FFC857"></path>
+                    <path d="M42,34 L52,34 L52,30 L42,30 L42,34 Z" id="Stroke-35" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M17,32 C17,33.656 18.344,35 20,35 C21.656,35 23,33.656 23,32 C23,30.344 21.349,29.353 20,29 C18.651,28.647 17,27.656 17,26 C17,24.344 18.344,23 20,23 C21.656,23 23,24.344 23,26" id="Stroke-36" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M20,23 L20,21" id="Stroke-37" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M20,35 L20,37" id="Stroke-38" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M26,29 L28,29" id="Stroke-39" stroke="#4D6892" stroke-width="2"></path>
+                    <path d="M12,29 L14,29" id="Stroke-40" stroke="#4D6892" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

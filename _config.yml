@@ -1,0 +1,74 @@
+name: Steem
+description: Steem - blockchain-based social media platform
+url: https://steem.io
+
+collections:
+    content:
+        output: true
+    features:
+        output: true
+    documentation:
+        output: true
+    roadmap:
+        output: true
+
+defaults:
+    - scope:
+          path: content/en
+      values:
+          lang: en
+
+    - scope:
+          type: features
+      values:
+          layout: technology
+          priority: 100
+
+    - scope:
+          type: documentation
+      values:
+          layout: documentation
+          priority: 100
+
+    - scope:
+          type: roadmap
+      values:
+          layout: technology
+          priority: 100
+
+    - scope:
+          path: roadmap/en
+      values:
+          lang: en
+
+    - scope:
+          path: documentation/en
+      values:
+          lang: en
+
+    - scope:
+          path: features/en
+      values:
+          lang: en
+
+    - scope:
+          type: posts
+      values:
+          layout: post
+
+    - scope:
+          path: _posts/en
+      values:
+          lang: en
+
+excerpt_separator: <!--more-->
+
+
+permalink: /blog/:year/:month/:day/:title/
+
+# Theme Settings
+theme_reading_time: true
+
+sass:
+    sass_dir: _scss
+    style: compressed

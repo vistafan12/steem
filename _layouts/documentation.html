@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<section class="posts wrapper">
+<div class="row">
+<div class="col-xs-12 col-md-12">
+
+<h4>{{ page.subtitle }}</h4>
+
+</div>
+
+<div class="col-xs-12 col-md-9">
+
+<article class="postbody">
+    {{ page.summary }}
+
+    <hr />
+
+    {{ content }}
+</article>
+
+</div>
+
+<div class="col-xs-12 col-md-3">
+<!--<img style="margin: -2.5rem 0 0 0; width: 144px;" class="hidden-xs" src="{{ BASE_PATH }}/{{ page.image }}" />-->
+
+<aside>
+{% include doc_sidebar.html %}
+</aside>
+
+</div>
+</section>

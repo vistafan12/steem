@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section class="posts wrapper">
+<div class="row">
+<div class="col-xs-12 col-md-9">
+<span class="meta" style="color:#BFBFBF;">
+<!-- Output author details if some exist. -->
+   <i class="fa fa-calendar-o"></i> <time datetime="{{ page.date| date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d, %Y" }}</time>  {% if page.author %}  <i class="fa fa-pencil"></i> {{ page.author }}{% endif %}  <i class="fa fa-clock-o"></i> {% include read_time.html %}
+</span>  {% if page.author_bio %}<p class="author_bio">{{ page.author_bio }}</p>{% endif %}
+</div>
+
+<div class="col-xs-12 col-md-9">
+
+<article class="postbody">
+    <hr />
+    {{ content }}
+</article>
+
+</div>
+
+<div class="col-xs-12 col-md-3">
+
+<aside>
+{% include right_sidebar.html %}
+</aside>
+</div>
+</section>
